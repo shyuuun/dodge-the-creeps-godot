@@ -4,4 +4,4 @@
 
 - I've added a joystick support for the mobile support.
 
-![[preview.png]]
+<img width="297" height="601" alt="preview" src="https://github.com/user-attachments/assets/6305d06d-bb3d-4d24-87b3-6b94d824a3ef" />
