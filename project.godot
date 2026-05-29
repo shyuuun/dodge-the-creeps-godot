@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="my first game godot"
+config/name="Avoid the Creeps"
 run/main_scene="uid://d2pf1nedqhti5"
 config/features=PackedStringArray("4.6", "Mobile")
 config/icon="res://icon.svg"
@@ -20,6 +20,7 @@ config/icon="res://icon.svg"
 window/size/viewport_width=480
 window/size/viewport_height=720
 window/stretch/mode="canvas_items"
+window/handheld/orientation=1
 
 [editor_plugins]
 
@@ -51,7 +52,6 @@ move_down={
 [input_devices]
 
 pointing/emulate_touch_from_mouse=true
-pointing/emulate_mouse_from_touch=false
 
 [physics]
 
